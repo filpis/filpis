@@ -37,6 +37,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/filpis/filpis/output/snake.svg" alt="Snake animation" />
 
 ###
