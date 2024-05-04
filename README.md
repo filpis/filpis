@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Chega mais!</h1></summary>
 </div>
 
-<p align="center">Olá, visitante!👋 Sou Felipe e sou aficionado por desenvolver soluções mobile.</p>
+<p align="center">Olá, visitante!👋 Sou o Felipe, um aficionado por desenvolver soluções mobile.</p>
 
 <details>
   <summary>👨‍💻 Sobre mim</summary>
