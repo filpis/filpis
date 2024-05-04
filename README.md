@@ -10,6 +10,13 @@
 
   - Tenho 23 anos de idade, moro na cidade de Uberlândia. Trabalho com desenvolvimento mobile utilizando Flutter há 3 anos e atualmente estudo sobre as ferramentas Kotlin e Swift para aprimorar meus conhecimentos sobre o mundo mobile. 
 </details>
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipe-gon%C3%A7alves-8237a71b2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=filpis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
